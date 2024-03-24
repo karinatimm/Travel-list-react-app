@@ -18,7 +18,7 @@ Happy travels!
 ### Deployment
 
 Click this badge to visit the deployed Travel List App on Netlify:
-**[![Netlify Status](https://api.netlify.com/api/v1/badges/630fe60b-b94e-4b2a-a165-f476d7b89165/deploy-status)](https://mapty-app-kartim.netlify.app)**
+**[![Netlify Status](https://api.netlify.com/api/v1/badges/14635502-241e-4778-ac3a-0e8664b73e60/deploy-status)](https://travel-list-app-kartim.netlify.app)**
 
 ## System Requirements if one wants to run this application locally:
 
