@@ -14,6 +14,7 @@ Happy travels!
 - **Checklist Management**: The application provides users with an interactive checklist interface, making it easy to mark items as packed or unpacked. Users can quickly see which items they've already packed and which ones they still need to gather.
 - **Sorting**: Users can sort items by input order, description, or status, providing greater organization and efficiency.
 - **Item Deletion**: Users can easily delete items from their packing lists with a simple click, allowing for quick adjustments and modifications as needed. This functionality streamlines the packing process and ensures that users have full control over their lists.
+- **Responsive Design**: Travel List App features a responsive design that adapts to various screen sizes and devices. Whether users access the application from a desktop computer, tablet, or smartphone, they'll enjoy a seamless and intuitive user experience.
 
 ### Deployment
 
